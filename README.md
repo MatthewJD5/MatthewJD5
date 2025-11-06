@@ -1,5 +1,5 @@
 # Matthew Dominguez
-Some guy
+Some guy.
 
 
 # Learning
